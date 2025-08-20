@@ -1,41 +1,61 @@
-## 👋 Hi, I’m Anamika Kumari Mishra
+# 👋 Hi, I'm Anamika Kumari Mishra  
 
-🎓 M.S. Data Science @ Columbia University (2025)
-💼 Former DC Analyst @ Deloitte USI | Data Science Internships @ Nokia, Mavenir, Aditya Birla
-📍 Based in New York, USA
-📫 Reach me: Email
- | LinkedIn
+🎓 **M.S. Data Science** @ Columbia University (2025)  
+💼 Former **DC Analyst** @ Deloitte USI | Internships @ Nokia · Mavenir · Aditya Birla  
+📍 Based in New York, USA  
+📫 Reach me: [Email](mailto:akm2259@columbia.edu) | [LinkedIn](https://linkedin.com/in/anamika-mishra-25798a263)  
 
-🔹 About Me
+---
 
-I’m a data scientist passionate about solving complex business problems with machine learning, data visualization, and cloud-based AI solutions. With experience across consulting, telecom, and sustainability, I specialize in turning raw data into actionable insights.
+## 🌟 About Me  
+I’m a **data scientist** passionate about solving complex business problems with **machine learning, data visualization, and cloud-based AI solutions**. With experience across consulting, telecom, and sustainability, I specialize in **turning raw data into actionable insights**.  
 
-Currently exploring: Large Language Models (LLMs), NLP, and scalable ML deployment with AWS & Kubernetes.
+Currently exploring: **Large Language Models (LLMs), NLP, and scalable ML deployment with AWS & Kubernetes**.  
 
-#🛠️ Skills & Tools
+---
 
-##Languages & Tools
-Python · SQL · Kotlin · PowerBI · Tableau · Apache Superset
+## 🛠 Skills & Tools  
 
-##Libraries & Frameworks
-NumPy · Pandas · Scikit-learn · TensorFlow · PyTorch · Keras · NLTK · OpenCV · XGBoost · Hugging Face
+**Languages & Tools**  
+`Python` · `SQL` · `Kotlin` · `PowerBI` · `Tableau` · `Apache Superset`  
 
-##Data Science & ML
-Feature Engineering · A/B Testing · Model Optimization · Time Series Forecasting · Deep Learning · NLP · Ensemble Methods · Dimensionality Reduction
+**Libraries & Frameworks**  
+`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `NLTK` · `OpenCV` · `XGBoost` · `Hugging Face`  
 
-##Infrastructure & DevOps
-Git (GitLab) · AWS · Kubernetes · CI/CD pipelines · Agile
+**Data Science & ML**  
+Feature Engineering · A/B Testing · Model Optimization · Time Series Forecasting · Deep Learning · NLP · Ensemble Methods · Dimensionality Reduction  
 
-##📂 Featured Projects
+**Infrastructure & DevOps**  
+Git (GitLab) · AWS · Kubernetes · CI/CD pipelines · Agile  
 
-###Device Management Analytics for 5G Rollout
+---
 
-Extracted & analyzed telecom device usage data across India using Python + Power BI → informed 5G rollout strategy with actionable dashboards.
+## 📂 Featured Projects  
 
-###Carbon Emission Forecasting
+- **Device Management Analytics for 5G Rollout**  
+  📊 Analyzed telecom device usage data using Python + Power BI → influenced **5G rollout strategy** with location-based dashboards.  
 
-Built a time-series forecasting model with Anaconda achieving MAE < 0.05, enabling accurate emission predictions and sustainability tracking.
+- **Carbon Emission Forecasting**  
+  🌍 Built a **time-series forecasting model** (MAE < 0.05) to predict emissions, enabling sustainability tracking.  
 
-###Payroll Process Optimization
- (Deloitte)
-Automated payroll discrepancy analysis (22,000+ records) with SQL + Excel → recovered $340K and reduced OPEX by 25% YoY.
+- **Payroll Process Optimization (Deloitte)**  
+  💰 Automated analysis of 22,000+ records with SQL + Excel → recovered **$340K** and reduced OPEX by **25% YoY**.  
+
+---
+
+## 🏆 Achievements  
+
+- 🏅 **Deloitte Applause Award** – for recovering $340K in payroll discrepancies  
+- 🌟 **Spot Award** – for automation of incident trend analysis  
+- 🎓 **Deloitte AI Academy** – trained in ML, PySpark, and AWS ML deployment  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anamikam-772&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamikam-772&layout=compact&theme=radical)  
+
+---
+
+✨ Always curious, always learning — let’s connect and collaborate on data-driven projects!
