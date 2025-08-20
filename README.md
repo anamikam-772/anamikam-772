@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anamika Kumari Mishra  
 
-🎓 **M.S. Data Science** @ Columbia University (2025)  
+🎓 **M.S. Data Science** @ Columbia University (2026)  
 💼 Former **Data Analyst** @ Deloitte USI | Internships @ Nokia · Mavenir · Aditya Birla Carbon
 📍 Based in New York, USA  
 📫 Reach me: [Email](mailto:akm2259@columbia.edu) | [LinkedIn](https://linkedin.com/in/anamika-mishra-25798a263)  
